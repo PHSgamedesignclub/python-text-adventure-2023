@@ -6,7 +6,6 @@
 import random #do not delete this, i will explain what it is later
 
 #write your code starting from line 10
-#link: https://bit.ly/textadventure-temp
 
 print("""
 commands:
@@ -35,7 +34,6 @@ rooms = {
     "east" : "Back Entry",
   }
 }
-
 
 
 
